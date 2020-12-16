@@ -1,0 +1,4 @@
+Given an amount and number of 2000 500. 200 100 notes available list all possible combination.
+Extract two letters from a string and find distinct combinations of the same .
+Traverse the binary tree in zig-zag order.  
+What is your favourite in data structures and favourite algorithms? And their time complexities?  
